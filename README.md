@@ -31,7 +31,7 @@ For these thoughts, you can add a reaction to that thought. The below image show
 
 Walkthrough video:
 
-[social-network-api-demo_ May 30, 2023 3_25 PM.webm]()
+[social-network-api-demo_ May 30, 2023](https://github.com/jacone626/social-network-api/assets/121627491/505b5618-87d0-4f47-a8f0-6afd408f3c5c)
 
 
 ## Credits
